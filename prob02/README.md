@@ -1,4 +1,4 @@
-# Find the Errors
+  # Find the Errors
 In this program, you will debug a program that contains the following:
 1. Compile time bugs
 2. Run time bugs
